@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Usman Ashfaq and I'm a Developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/a5/f0/b8/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif"  />
 
 ###
 
