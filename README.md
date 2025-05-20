@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.instagram.com/osmanashfaq/" target="_blank">
