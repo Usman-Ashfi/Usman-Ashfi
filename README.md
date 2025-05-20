@@ -7,11 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Usman-Ashfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="125" src="https://i.pinimg.com/originals/a5/f0/b8/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
